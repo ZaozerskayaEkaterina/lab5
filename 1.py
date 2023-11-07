@@ -31,5 +31,5 @@ for i in range(n):
             except:
                 x = input('Enter correct element:  ')
         row.append(x)
-    mas.append(sorted(row))
+    mas.append(sorted(row)) #добавляем сразу отсортированную строку
 print(mas)
