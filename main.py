@@ -5,6 +5,8 @@
 
 
 
+
+
 print('Enter size of matrix: ')
 n = input('Enter n: ')
 while True:
